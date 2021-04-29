@@ -36,7 +36,7 @@ abstract contract Declaration is Context, Events {
     
     constructor() {
         LAUNCH_TIME = 1619740800; // (30th April 2021 @00:00 GMT == day 0)
-        LP_LAUNCH_TIME = 1620604800;  // (10th May 2021 @00:00 GMT == day 0)
+        LP_LAUNCH_TIME = 1620777600;  // (12th May 2021 @00:00 GMT == day 0)
     }
 
 
